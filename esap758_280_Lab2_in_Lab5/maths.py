@@ -24,6 +24,9 @@ HEX_CHARS = {
     15: 'F'
 }
 
+def factorial(number):
+    
+
 def convert_base(num, n):
     """Change a base 10 number to a base-n number. Supports up to base 16. """
     new_num_string = ''
